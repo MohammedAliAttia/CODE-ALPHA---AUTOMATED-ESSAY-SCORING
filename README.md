@@ -1,2 +1,2 @@
-# CODE-ALPHA---AUTOMATED-ESSAY-SCORING
-The goal is to automate the evaluating phase in essay questions, reducing grading time and costs, and enabling essays to be included in testing, a crucial measure of student learning.
+# CODE-ALPHA-AUTOMATED-ESSAY-SCORING
+The goal is to automate the evaluating phase in essay questions, reducing grading time and costs. This is a crucial measure of student learning often avoided due to grading challenges. Three approaches are proposed: using classical models with smart feature engineering, using LLMs for fine-tuning the dataset, and testing in various layers like LoRa or full. The first approach involves using features from the first approach and using LLM as feature extraction, then passing all to the classic model. A notebook is created as a proof of concept.
